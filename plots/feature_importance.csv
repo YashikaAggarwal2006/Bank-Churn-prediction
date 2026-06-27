@@ -1,0 +1,11 @@
+Feature,Importance
+active_member,0.3795838
+products_number,0.15795031
+age,0.12408526
+gender,0.12097218
+country,0.06613304
+credit_card,0.04868914
+balance,0.038487457
+tenure,0.024238763
+estimated_salary,0.021009848
+credit_score,0.018850151
